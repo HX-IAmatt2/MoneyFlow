@@ -11,7 +11,7 @@ operaciones registradas. Los datos mostrados deben ser persistidos en una base d
 datos puede armarse según se considere apropiado en base a los requerimientos del
 negocio. La API deberá exponer URLS que devuelvan datos en JSON."
 
-> Realizado utilizando el stack de tecnologías HTML, CSS, Javascript, React, Redux, Node.JS, Express, Sequelize y PostgreSQL.
+> Realizado utilizando el stack de tecnologías HTML, CSS, Javascript, React, Node.JS, Express, Sequelize y PostgreSQL.
 
 ## Last Movements
 
